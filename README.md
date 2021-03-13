@@ -8,7 +8,7 @@ configured on `gcloud` to your Bash/Zsh prompt strings (i.e. the `$PS1`).
 
 Inspired by several tools used to simplify usage of `kubectl`.
 
-![prompt demo](img/kube-ps1.gif)
+![prompt demo](img/demo.gif)
 
 ## Installing
 
