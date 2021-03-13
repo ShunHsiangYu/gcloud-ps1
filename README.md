@@ -1,7 +1,7 @@
 gcloud-ps1: GCloud prompt for bash and zsh
 ============================================
 
-Clone from [Jon Mosco' awesome prokect](https://github.com/jonmosco/kube-ps1)
+Clone from [Jon Mosco' awesome project](https://github.com/jonmosco/kube-ps1)
 
 A script that lets you add the current gcloud account and project
 configured on `gcloud` to your Bash/Zsh prompt strings (i.e. the `$PS1`).
